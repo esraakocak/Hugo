@@ -12,7 +12,7 @@ headless: true
 <br />
 
 - **Shortcodes**
-- [deneme]({{< relref "/docs/shortcodes/buttons" >}})
+- [deneme]({{< relref "/docs/shortcodes/deneme" >}})
 - [Columns]({{< relref "/docs/shortcodes/columns" >}})
 - [Expand]({{< relref "/docs/shortcodes/expand" >}})
 - [Hints]({{< relref "/docs/shortcodes/hints" >}})
