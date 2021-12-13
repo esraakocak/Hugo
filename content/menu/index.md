@@ -22,5 +22,5 @@ headless: true
 <br />
 
 - **Baslik**
-- [deneme]({{< relref "/docs/baslik_deneme" >}})
+- [baslik]({{< relref "/docs/baslik_deneme/baslik >}})
 <br />
