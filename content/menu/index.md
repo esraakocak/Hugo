@@ -4,6 +4,7 @@ headless: true
 
 - [**Example Site**]({{< relref "/docs/example" >}})
 - [Table of Contents]({{< relref "/docs/example/table-of-contents" >}})
+- [Esra]({{< relref "/docs/post/esra" >}})
   - [With ToC]({{< relref "/docs/example/table-of-contents/with-toc" >}})
   - [Without ToC]({{< relref "/docs/example/table-of-contents/without-toc" >}})
 - [Collapsed]({{< relref "/docs/example/collapsed" >}})
