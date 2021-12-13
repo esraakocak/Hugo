@@ -20,3 +20,7 @@ headless: true
 - [Mermaid]({{< relref "/docs/shortcodes/mermaid" >}})
 - [Tabs]({{< relref "/docs/shortcodes/tabs" >}})
 <br />
+
+- **Baslik**
+- [deneme]({{< relref "/docs/baslik_deneme" >}})
+<br />
