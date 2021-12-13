@@ -21,6 +21,4 @@ headless: true
 - [Tabs]({{< relref "/docs/shortcodes/tabs" >}})
 <br />
 
-- **Baslik**
-- [baslik]({{< relref "/docs/baslik_deneme/baslik >}})
-<br />
+
